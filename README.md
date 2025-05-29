@@ -17,7 +17,7 @@ A simple Node.js API using **Fastify** that provides information about Formula 1
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/formula1-api.git
+git clone https://github.com/NathanAlencarDev/formula-one-api.git
 ```
 
 2. Navigate into the project directory:
